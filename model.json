@@ -1,0 +1,69 @@
+{
+  "studentEmail@ukma.edu.ua" : {
+    "fullName" : "Shakhova Diana Sergiivna",
+    "faculty" : "Economics",
+    "specialty": "Finances banking and insurance",
+    "year" : 2,
+    "semesters" : [
+      {
+        "semester": 1,
+        "subjects": [
+          {
+            "Microeconomics": {
+              "lector": "lectorEmail@ukma.edu.ua",
+              "average": 92,
+              "themes": [
+                {
+                  "title": "Theory",
+                  "grade": 46,
+                  "date": "1602754169"
+                },
+                {
+                  "title": "Practise",
+                  "grade": 46,
+                  "date": "1602754169"
+                }
+              ]
+          }
+          },
+          {
+            "ComputerNetworks": {
+              "lector": "lector2Email@ukma.edu.ua",
+              "average": 98,
+              "themes": [
+                {
+                  "title": "Labs",
+                  "grade": 98,
+                  "date": "1608892169"
+                }
+              ]
+          }
+          }
+        ]
+      },
+      {
+        "semester": 2,
+        "subjects": [
+          {
+            "Macroeconomics": {
+              "lector": "lector3Email@ukma.edu.ua",
+              "average": 90,
+              "themes": [
+                {
+                  "title": "Theory",
+                  "grade": 44,
+                  "date": "1613644169"
+                },
+                {
+                  "title": "Practise",
+                  "grade": 46,
+                  "date": "1618478969"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+} 

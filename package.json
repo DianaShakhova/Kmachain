@@ -1,0 +1,19 @@
+{
+  "name": "kmachain",
+  "version": "1.0.0",
+  "description": "A Node.js simple API server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "blockchain"
+  ],
+  "author": "Diana Shakhova",
+  "license": "SHD",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
